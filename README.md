@@ -9,7 +9,7 @@
 
 - Skype Id: live:.cid.6b3be79ded813cc6
 - Phone number:+1 254 221 1884
-- Gmail: isanoguchi7re21@gmail.com
+- Gmail: firedragon7210@gmail.com
 - Discord: Fire721#4458
 
 <br />
