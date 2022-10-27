@@ -34,8 +34,4 @@ Discord: Fire721#4458
 <br />
 <br />
 
----
-
-
-<img align="left" alt="stevenmchenry01's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stevenmchenry01&show_icons=true&hide_border=true" />
 
