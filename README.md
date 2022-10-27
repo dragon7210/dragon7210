@@ -1,5 +1,3 @@
-[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/logo.png" />][website]
-
 ### Hey there, I'm Dragon👋
 
 ## I am a Full-stack developer
@@ -9,9 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="stevenmchenry.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="steven mchenry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="steven mchenry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Skype Id: live:.cid.6b3be79ded813cc6
+Phone number:+1 254 221 1884
+Gmail: isanoguchi7re21@gmail.com
+Discord: Fire721#4458
 
 <br />
 
