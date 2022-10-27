@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-Skype Id: live:.cid.6b3be79ded813cc6
-Phone number:+1 254 221 1884
-Gmail: isanoguchi7re21@gmail.com
-Discord: Fire721#4458
+- Skype Id: live:.cid.6b3be79ded813cc6
+- Phone number:+1 254 221 1884
+- Gmail: isanoguchi7re21@gmail.com
+- Discord: Fire721#4458
 
 <br />
 
