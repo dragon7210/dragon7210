@@ -34,5 +34,6 @@
 <br />
 <br />
 
-
+Recent Github Activity
+<a href="https://github.com/dragon7210"><img alt="Dragon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dragon7210&custom_title=Recent%20Activity&theme=react-dark" /></a>
 
