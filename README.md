@@ -84,6 +84,7 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
 
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-coder135&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="d-coder135" /></p>
 
 
 <br />
