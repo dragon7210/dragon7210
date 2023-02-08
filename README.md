@@ -8,7 +8,6 @@
 ### Connect with me:
 
 - Skype Id: live:.cid.6b3be79ded813cc6
-- Telegram: dragon721 
 - Phone number: +1 254 221 1884
 - Gmail: firedragon7210@gmail.com
 - Discord: Fire721#4458
